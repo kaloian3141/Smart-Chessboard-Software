@@ -1,5 +1,4 @@
 # Smart-Chessboard-Software
-Java приложение за Smart Chessboard: свързва се с ESP32 през WiFi, показва текущата позиция с eval bar и предложения за ходове и анализира позицията с шахматен engine (Stockfish или собствен engine).
 
 Java application for the smart chessboard: connects to the ESP32 over WiFi, displays the live position with an eval bar and move suggestions, and analyses it with a chess engine.
 
